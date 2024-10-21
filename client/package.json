@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm run build --prefix ./client"
+    "build": "npm run build --prefix ./client",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
